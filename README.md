@@ -106,15 +106,3 @@ All modules expect RabbitMQ to be running on:
 3. Make your changes
 4. Test across all relevant modules
 5. Submit a pull request
-
-## License
-
-This project is for educational purposes. Feel free to use and modify as needed.
-
-## Support
-
-For issues and questions:
-- Check individual module README files
-- Ensure RabbitMQ server is running
-- Verify network connectivity
-- Check logs for specific error messages

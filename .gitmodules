@@ -1,9 +1,9 @@
 [submodule "QueuePublisher"]
 	path = QueuePublisher
-	url = ./QueuePublisher
+	url = https://github.com/RaviGit18/QueuePublisher.git
 [submodule "RabbitMQ"]
 	path = RabbitMQ
-	url = ./RabbitMQ
+	url = https://github.com/RaviGit18/RabbitMQ.git
 [submodule "RabbitMQ-Spring-MVC"]
 	path = RabbitMQ-Spring-MVC
-	url = ./RabbitMQ-Spring-MVC
+	url = https://github.com/RaviGit18/RabbitMQ-Spring-MVC.git

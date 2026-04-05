@@ -1,0 +1,9 @@
+[submodule "QueuePublisher"]
+	path = QueuePublisher
+	url = ./QueuePublisher
+[submodule "RabbitMQ"]
+	path = RabbitMQ
+	url = ./RabbitMQ
+[submodule "RabbitMQ-Spring-MVC"]
+	path = RabbitMQ-Spring-MVC
+	url = ./RabbitMQ-Spring-MVC
